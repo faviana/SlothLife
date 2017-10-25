@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    color: green;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.char{
+    font-size: 20px;
+    color: brown;
+    font-family: 'Lobster Two', cursive;
+}
+
+.two{
+    width: 100px;
+    height: 200px;
+ 
+}
+
+.three{
+    width: 100px;
+    height: 200px;
+   
+}
